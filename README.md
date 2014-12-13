@@ -1,4 +1,4 @@
-wp_frameword_python
+wp_framework_python
 ===================
 
 Sandbox for a wordpress automation framework using python + webdriver
